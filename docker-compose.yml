@@ -9,4 +9,4 @@ services:
     build:
       context: .
       dockerfile: services/caddy/Dockerfile
-    image: hexletcomponents/devops-example-caddy
+    image: kadykovev/devops-example-caddy
